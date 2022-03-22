@@ -4,7 +4,7 @@
   --secondary: blue;
   --white: #fff;
   --black: #000;
-  --font-body: "Quicksand", sans-serif;
+  --font-body: azo-sans-web, sans-serif;
   --font-heading: "Roboto", sans-serif;
 }
 
@@ -34,6 +34,10 @@ body {
 a {
   text-decoration: none;
   color: inherit;
+}
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 /* Delete when Starting - Styling purposes only */
